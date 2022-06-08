@@ -1,0 +1,24 @@
+.container-img{
+    background-image: url("../img/educacion2.jpg");
+    background-size: cover;
+    background-position: center;
+
+    width: 300px;
+    height: auto;
+}
+
+.container-banner{
+    background:#143058 ;
+    width: 100%;
+    margin:0 auto;
+}
+.container-xl{
+
+}
+   
+footer{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
